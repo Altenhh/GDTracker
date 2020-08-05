@@ -1,16 +1,14 @@
-﻿using System.Windows.Forms;
-
-namespace GDTracker
+﻿namespace GDTracker
 {
     partial class Form1
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -31,11 +29,14 @@ namespace GDTracker
         private void InitializeComponent()
         {
             this.SuspendLayout();
+            // 
+            // Form1
+            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(878, 401);
+            this.ClientSize = new System.Drawing.Size(874, 397);
             this.Name = "Form1";
-            this.Text = "GD Tracker";
+            this.Text = "Form1";
             this.ResumeLayout(false);
         }
         #endregion
