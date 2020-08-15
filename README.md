@@ -7,7 +7,7 @@ GDTracker is highly inspired by circle-tracker such that it provides the exact s
 <br>
 
 ## Development
-When developing or debugging the tau codebase, a few prerequisites are required as following:
+When developing or debugging the GDTracker codebase, a few prerequisites are required as following:
 * An IDE that supports the C# language in automatic completion, and syntax highlighting; examples of such being [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) and above, or [JetBrains Rider](https://www.jetbrains.com/rider/).
 
 ## Contributions
